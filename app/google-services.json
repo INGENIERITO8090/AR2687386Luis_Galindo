@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463500879949",
+    "project_id": "ar2687386luis-galindo",
+    "storage_bucket": "ar2687386luis-galindo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463500879949:android:d78733f22f4fc8f4d7d404",
+        "android_client_info": {
+          "package_name": "co.sena.ar2687386luis_galindo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAloMFZUA0cztk4r1piuXjEzXqb-FeXhDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
